@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+environs
+sqlalchemy
+pyjwt
+alembic
+asyncpg
+psycopg2
+bcrypt
+aiohttp
